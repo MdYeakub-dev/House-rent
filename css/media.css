@@ -1,0 +1,743 @@
+@media(min-width:1400px){
+	form ul {
+		margin-left: 590px;
+		margin-right: 590px;
+	}
+	form ul li a {
+		font-size: 20px;
+	}
+	.form-input input {
+		width: 85%;
+	}
+	.form-search {
+		margin-left: -37px;
+	}
+
+}
+/* ===========992-1199 width=========== */
+@media(min-width: 992px) and (max-width:1199px){
+	.navbar-btn .btn-two {
+		display: none;
+	}
+	.navbar-nav .nav-link {
+		margin-right: 10px;
+	}
+	#banner {
+		padding-bottom: 270px;
+	}
+	.banner-text h1 {
+		font-size: 50px;
+		margin-right: 85px;
+		margin-left: 85px;
+	}
+	.banner-text h4 {
+		padding-top: 10px;
+		padding-bottom: 5px;
+		font-size: 25px;
+	}
+	form ul {
+		margin-left: 420px;
+		margin-right: 420px;
+	}
+	.dropdown button {
+		padding-right: 7px;
+	}
+	.dropdown button::after {
+		margin-left: 180px;
+	}
+	.form-lebel {
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+	.form-item {
+		margin-left: 25px;
+		margin-right: -16px;
+	}
+	.form-input input {
+		width: 78%;
+		padding: 6px 10px;
+	}
+	.form-search {
+		margin-left: -60px;
+	}
+	.form-search button {
+		padding: 5px 38px;
+	}
+	#want {
+		padding-top: 45px;
+		padding-bottom: 5px;
+	}
+	.want-head h3 {
+		font-size: 45px;
+	}
+	.want-head {
+		padding-bottom: 35px;
+	}
+	.furnished-text h2 {
+		font-size: 35px;
+		margin-left: 30px;
+		margin-right: 0px;
+		line-height: 40px;
+	}
+	.furnished-text p {
+		font-size: 20px;
+		margin-left: 30px;
+		margin-right: 50px;
+	}
+	.choice-item-text h4 {
+		padding-top: 33px;
+		font-size: 28px;
+		padding-bottom: 14px;
+	}
+	.choice-btn {
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+	.choice-item {
+		height: 380px;
+	}
+	.area-img::before {
+		width: 197px;
+		top: 57px;
+		right: -25px;
+	}
+	.area-img::after {
+		width: 202px;
+		top: 57px;
+		left: -26px;
+	}
+	.blog-btn {
+		margin-left: 0px;
+		margin-right: 0px;
+		padding-top: 10px;
+	}
+	.blog-btn button {
+		padding: 10px 12px;
+		font-size: 16px;
+	}
+	.plus {
+		margin-left: 90%;
+	}
+}
+/* ===========992-1199 width=========== */
+
+/* ===========768-991 width=========== */
+@media(min-width: 767px) and (max-width:991px){
+	.navbar-toggler {
+		margin-right: 144px;
+		margin-top: -78px;
+		font-size: 30px;
+	}
+	.navbar-logo {
+		margin-left: 263px;
+	}
+	.navbar-btn button {
+		display: none;
+	}
+	#banner {
+		padding-bottom: 270px;
+	}
+	.banner-text h1 {
+		font-size: 50px;
+		margin-right: 85px;
+		margin-left: 85px;
+	}
+	.banner-text h4 {
+		padding-top: 10px;
+		padding-bottom: 5px;
+		font-size: 25px;
+	}
+	form ul {
+		margin-left: 290px;
+		margin-right: 290px;
+	}
+	.form-lebel {
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+	.dropdown button {
+		font-size: 14px;
+		padding-right: 0px;
+	}
+	.form-item {
+		margin-left: 25px;
+		margin-right: -16px;
+	}
+	.form-input input {
+		padding: 6px 0px;
+		margin-right: 110px;
+	}
+	.form-search {
+		margin-left: -97px;
+	}
+	#want {
+		padding-top: 45px;
+		padding-bottom: 30px;
+	}
+	.want-head {
+		padding-bottom: 35px;
+	}
+	.want-head h3 {
+		font-size: 45px;
+	}
+	.want-icon img {
+		height: 36%;
+		width: 36%;
+	}
+	.want-icon:hover.want-icon img {
+		height: 37%;
+		width: 37%;
+	}
+	.want-text p {
+		padding-top: 8px;
+		font-size: 17px;
+	}
+	.furnished-text h2 {
+		font-size: 34px;
+		margin-left: 18px;
+		margin-right: 56px;
+		line-height: 40px;
+	}
+	.furnished-text p {
+		padding-top: 0px;
+		font-size: 18px;
+		margin-left: 24px;
+		margin-right: 24px;
+	}
+	.choice-head-text h2 {
+		font-size: 35px;
+		padding-bottom: 20px;
+	}
+	.choice-item-text h4 {
+		padding-top: 38px;
+		font-size: 24px;
+		padding-bottom: 8px;
+	}
+	.choice-item-text p {
+		margin-right: 5px;
+		margin-left: 5px;
+		line-height: 24px;
+		padding-bottom: 15px;
+	}
+	.choice-btn {
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+	.area-img::before {
+		width: 145px;
+		height: 7px;
+		top: 43px;
+		right: -21px;
+		transform: rotate(41deg);
+		-webkit-transform: rotate(41deg);
+		-moz-transform: rotate(42deg);
+		-ms-transform: rotate(41deg);
+		-o-transform: rotate(41deg);
+	}
+	.area-img::after {
+		width: 155px;
+		height: 8px;
+		top: 40px;
+		left: -25px;
+	}
+	.blog-btn {
+		margin-left: 0px;
+		margin-right: 0px;
+		padding-top: 1px;
+		padding-bottom: 18px;
+	}
+	.blog-btn button {
+		padding: 4px 9px;
+	}
+	.plus {
+		margin-left: 86%;
+	}
+	.footer-follow .one {
+		font-size: 16px;
+		height: 35px;
+		width: 35px;
+		line-height: 35px;
+	}
+	.footer-follow .two {
+		font-size: 16px;
+		height: 35px;
+		width: 35px;
+		line-height: 35px;
+	}
+	.footer-follow .three {
+		font-size: 16px;
+		height: 35px;
+		width: 35px;
+		line-height: 35px;
+	}
+	.footer-follow .four {
+		font-size: 16px;
+		height: 35px;
+		width: 35px;
+		line-height: 35px;
+	}
+	.footer-follow i {
+		margin-right: 0px;
+		margin-left: 0px;
+	}
+}
+/* ===========768-991 width=========== */
+
+/* =========575-767 width=========== */
+@media(min-width: 576px) and (max-width:767px){
+	.navbar-logo{
+		margin-left: 133px;
+	}
+	.navbar-toggler {
+		margin-right: 217px;
+		margin-top: -40px;
+	}
+	.navbar-btn button {
+		display: none;
+	}
+	.banner-text {
+		padding-top: 30px;
+	}
+	.banner-text h1 {
+		font-size: 28px;
+	}
+	.banner-text h4 {
+		padding-top: 10px;
+		font-size: 18px;
+		padding-bottom: 0px;
+	}
+	.banner-form {
+		padding-top: 25px;
+	}
+	form ul {
+		margin-left: 208px;
+		margin-right: 205px;
+	}
+	.form-item {
+		padding-top: 10px;
+	}
+	.form-lebel {
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+	.dropdown button {
+		padding-right: 20px;
+	}
+	.form-input input {
+		width: 100%;
+		padding: 6px 40px;
+	}
+	#want {
+		padding-top: 50px;
+		padding-bottom: 30px;
+	}
+	.want-head {
+		padding-bottom: 30px;
+	}
+	.want-head h3 {
+		font-size: 30px;
+	}
+	.furnished-text h2 {
+		padding-top: 14px;
+		font-size: 27px;
+		margin-left: 23px;
+		line-height: 34px;
+	}
+	.furnished-text p {
+		padding-top: 0px;
+		font-size: 17px;
+		margin-left: 19px;
+		margin-right: 0px;
+	}
+	#choice {
+		padding-top: 30px;
+		padding-bottom: 30px;
+	}
+	.choice-head-text h2 {
+		font-size: 26px;
+		padding-bottom: 16px;
+	}
+	.choice-item-text h4 {
+		padding-top: 50px;
+		font-size: 29px;
+		padding-bottom: 0px;
+	}
+	.choice-item {
+		height: 271px;
+		margin-bottom: 20px;
+	}
+	#area {
+		padding-bottom: 35px;
+	}
+	.area-item {
+		margin-bottom: 20px;
+	}
+	.area-overlay-text {
+		padding-top: 96px;
+	}
+	.area-overlay-text h5 {
+		font-size: 18px;
+	}
+	.blog-head h2 {
+		padding-top: 35px;
+	}
+	.blog-text {
+		padding-top: 16px;
+	}
+	.blog-head p {
+		padding-bottom: 12px;
+	}
+	.blog-text h4 {
+		padding-bottom: 5px;
+		font-size: 16px;
+	}
+	.blog-btn {
+		padding-top: 0px;
+		padding-bottom: 10px;
+	}
+	#partners {
+		padding-top: 32px;
+		padding-bottom: 32px;
+	}
+	.plus {
+		margin-left: 85%;
+	}
+}
+
+/* =========575-767 width=========== */
+@media (max-width: 575.99px){
+	/* .navbar-collapse {
+		display: none;
+	} */	
+/* 		 
+	header {
+		background: transparent;
+		color: #000;
+		padding: 80px 100px;
+
+		position: relative;
+	  }
+	  
+	  .site-title {
+		text-align: center;
+		font-size: 20px;
+	  }
+	  
+	  .nav-toggle {
+		position: absolute;
+		top: 3%;
+		cursor: pointer;
+		left: 0px;
+		font-size: 20px;
+	}
+	  
+	  .main-navigation a {
+		color: #000;
+		text-decoration: none;
+		padding: 10px 20px;
+		display: block;
+	  }
+	  
+	 
+	  .main-navigation ul {
+		margin: 0;
+		padding: 0;
+	  }
+	  
+	  .main-navigation {
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		background: #ddd;
+		text-align: left;
+		transform: translateX(-100%);
+		transition: transform 0.6s ease;
+	  }
+	  
+	  .wrapper {
+		transform: translateX(0);
+		transition: transform 0.6s ease;
+	  }
+	  
+	  .outer-wrapper {
+		overflow: hidden;
+	  }
+	  
+	  .wrapper.open {
+		transform: translateX(100%);
+	  }
+	  
+	  .main-navigation .nav-toggle {
+		left: 88%;
+		top: 1%;
+	}
+	.navbar-nav .nav-link {
+		padding-left: 12px;
+		border-bottom: 1px solid #d1d1d2;
+	}
+	header.nav-toggle {
+		background: transparent;
+		color: #000;
+		padding: 20px 10px;
+
+	  } */
+
+ /* =========media navber css start======= */
+ .navbar-brand {
+   margin-left: 100px;
+}
+.navbar-nav .nav-link {
+	padding-left: 12px;
+	border-bottom: 1px solid #d1d1d2;
+}
+.navbar-logo img{
+   height: 30px;
+}
+.navbar-btn .btn-one{
+   display: none;
+}
+.navbar-btn .btn-two{
+   display: none;
+}
+.navbar-toggler {
+	margin-right: 100%;
+   margin-top: -41px;
+}
+ /* =========media navber css end======= */
+
+ /* =========media banner css start======= */
+ .banner-text {
+	padding-top: 35px;
+}
+ .banner-text h1 {
+   font-size: 28px;
+   font-weight: 800;
+}
+.banner-text h4 {
+	padding-top: 7px;
+	padding-bottom: 17px;
+	font-size: 18px;
+}
+form ul {
+	margin-left: 100px;
+	margin-right: 100px;
+	padding-top: 5px;
+	padding-bottom: 8px;
+}
+.banner-form {
+	padding-top: 0px;
+}
+.form-lebel {
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-bottom: 0px;
+	padding-top: 5px;
+}
+.form-item {
+	padding-top: 1px;
+	margin-left: 9px;
+}
+.dropdown button {
+	font-size: 14px;
+	padding-right: 14px;
+}
+.dropdown button::after {
+	margin-left: 200px;
+}
+.form-input input {
+	margin-right: 99px;
+	width: 75%;
+	padding: 6px 11px;
+}
+.form-search {
+	margin-left: 80px;
+	padding-top: 5px;
+}
+
+ /* =========media banner css end======= */
+
+ /* =========media want css start======= */
+ #want {
+	padding-top: 25px;
+	padding-bottom: 15px;
+}
+.want-head {
+	padding-bottom: 20px;
+}
+.want-icon img {
+	height: 40%;
+	width: 30%;
+}
+.want-icon:hover.want-icon img {
+	height: 42%;
+	width: 31%;
+}
+.want-text p {
+	padding-top: 4px;
+	padding-bottom: 10px;
+	font-size: 15px;
+}
+ /* =========media want css end======= */
+
+ /* =========media furnished css start======= */
+ .furnished-text h2 {
+	padding-top: 10px;
+	color: #010101;
+	font-size: 28px;
+	font-weight: 500;
+	font-family: 'Montserrat', sans-serif;
+	text-transform: capitalize;
+	margin-left: 24px;
+	margin-right: 0px;
+	line-height: 30px;
+}
+.furnished-text p {
+	padding-top: 2px;
+	font-size: 16px;
+	margin-left: 23px;
+	margin-right: 22px;
+}
+ /* =========media furnished css end======= */
+
+ /* =========media choice css start======= */
+ #choice {
+	padding-top: 50px;
+	padding-bottom: 25px;
+}
+ .choice-head-text h2 {
+	font-size: 25px;
+	font-weight: 600;
+	color: #010101;
+	font-family: 'Roboto', sans-serif;
+	padding-bottom: 20px;
+}
+.choice-item-text h4 {
+	padding-top: 8px;
+	font-size: 25px;
+	padding-bottom: 6px;
+}
+.choice-item-text p {
+	margin-right: 10px;
+	margin-left: 10px;
+	line-height: 20px;
+	padding-bottom: 0px;
+}
+.choice-btn {
+	margin-left: 0px;
+	margin-right: 0px;
+}
+.choice-item {
+	height: 280px;
+	margin-bottom: 10px;
+}
+ /* =========media choice css end======= */
+
+ /* =========media area css start======= */
+ .area-item {
+	margin-bottom: 20px;
+}
+ .area-head h2 {
+	font-size: 35px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-right: 41px;
+	margin-left: 41px;
+}
+.area-img::before {
+	display: none;
+}
+.area-img::after {
+	display: none;
+}
+.area-overlay-text {
+	padding-top: 115px;
+}
+.area-overlay-text h5 {
+	font-size: 20px;
+	line-height: 28px;
+	font-weight: 600;
+}
+.area-overlay-text p {
+	font-size: 16px;
+}
+ /* =========media area css end======= */
+
+ /* =========media partners css start======= */
+ #partners {
+	padding-top: 24px;
+	padding-bottom: 24px;
+}
+ /* =========media partners css end======= */
+
+ /* =========media guideline css start======= */
+ .guideline-item {
+	padding-top: 40px;
+	padding-bottom: 16px;
+}
+.guideline-pera h2 {
+	padding-bottom: 10px;
+	font-size: 33px;
+	margin-left: 4px;
+}
+ /* =========media guideline css end======= */
+
+ /* =========media copyright css start======= */
+ #copyright {
+	padding-top: 17px;
+	padding-bottom: 5px;
+}
+ /* =========media copyright css end======= */ 
+}
+ /* =========media copyright css end======= */ 
+@media (min-width: 480px) and (max-width: 576.99px){
+
+
+	/* =========media navbar css start======= */ 
+	.navbar-toggler {
+		margin-right: 217px;
+	}
+	.navbar-logo img {
+		height: 40px;
+		margin-left: 65px;
+	}
+	.dropdown button::after {
+		margin-left: 364px;
+	}
+	.dropdown button {
+		padding-right: 20px;
+	}
+	/* =========media navbar css end======= */ 
+
+	/* =========media banner css start======= */ 
+	.form-input input {
+		margin-right: 135px;
+	}
+	.form-search {
+		margin-left: 163px;
+	}
+	 /* =========media banner css end======= */
+	 
+	  /* =========media area css start======= */ 
+	.area-img::before {
+		display: none;
+	}
+	.area-img::after {
+		display: none;
+	}
+	 /* =========media area css end======= */ 
+	 .plus {
+		margin-left: 87%;
+	}
+}
+@media (min-width: 340px) and (max-width: 400px){
+	.plus {
+		margin-left: 85%;
+	}
+}
+@media (min-width: 320px) and (max-width: 350px){
+	.plus {
+		margin-left: 85%;
+	}
+}
